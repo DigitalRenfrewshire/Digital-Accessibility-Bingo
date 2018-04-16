@@ -24,4 +24,6 @@ Things said or implied at meetings when someone mentions the “A” word. Scrol
 - We can't do everything, and if we only do a bit we will get sued, so we are better off doing nothing.
 - People don’t look at websites on their phones.
 - No one really uses the website. Every things on social media now & that’s accessible.
+- That's not our video, we just use it on our website ... that's why it isn't subtitled.
+- We did put "accessibility" into our procurement requirements but our suppliers obviously didn't follow them. 
 - Next month!
