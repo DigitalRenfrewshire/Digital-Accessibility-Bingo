@@ -25,5 +25,6 @@ Things said or implied at meetings when someone mentions the “A” word. Scrol
 - People don’t look at websites on their phones.
 - No one really uses the website. Every things on social media now & that’s accessible.
 - That's not our video, we just use it on our website ... that's why it isn't subtitled.
+- That's not our code, it's an open source library.
 - We did put "accessibility" into our procurement requirements but our suppliers obviously didn't follow them. 
 - Next month!
